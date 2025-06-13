@@ -30,7 +30,8 @@
 }
 .bar {
     background-color: rgb(234, 134, 157);
-    padding: 30px;
+    padding-bottom: 50px;
+    padding-top: 50px;
     
     position: fixed;
 }
@@ -40,7 +41,7 @@
     padding: 30px;
     right: 5%;
     
-    size: 100px;
+    
 }
 .foto1 {
     size-adjust: 50%;
