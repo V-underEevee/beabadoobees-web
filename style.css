@@ -30,13 +30,16 @@
 }
 .bar {
     background-color: rgb(234, 134, 157);
+    padding: 30px;
+    
+    position: fixed;
 }
 .burger {
     background-color: rgb(244, 177, 192);
     display: inline;
-    position: fixed;
-    right: 5%;
     padding: 30px;
+    right: 5%;
+    
     size: 100px;
 }
 .foto1 {
