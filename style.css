@@ -26,83 +26,87 @@
     size-adjust: 60%;
     float: left;
     width: 40%;
-     background-color: rgb(228, 152, 209);
+    display: flex;
+     background-color: rgb(252, 190, 236);
     border-bottom-style: solid;
     border-bottom-width: 30px;
-    border-bottom-color: rgb(53, 32, 38);
+    border-bottom-color: rgb(135, 196, 141);
 
     border-top-style: solid;
     border-top-width: 30px;
-    border-top-color: rgb(53, 32, 38);
+    border-top-color: rgb(135, 196, 141);
 
     border-left-style: solid;
     border-left-width: 30px;
-    border-left-color: rgb(53, 32, 38);
+    border-left-color: rgb(135, 196, 141);
     
     border-right-style: solid;
     border-right-width: 30px;
-    border-right-color: rgb(53, 32, 38);
+    border-right-color: rgb(135, 196, 141);
 }
 .X {
-    size-adjust: 60%;
-    float: left;
+   size-adjust: 60%;
+    float: right;
     width: 40%;
-     background-color: rgb(228, 152, 209);
+    display: flex;
+     background-color: rgb(252, 190, 236);
     border-bottom-style: solid;
     border-bottom-width: 30px;
-    border-bottom-color: rgb(53, 32, 38);
+    border-bottom-color: rgb(135, 196, 141);
 
     border-top-style: solid;
     border-top-width: 30px;
-    border-top-color: rgb(53, 32, 38);
+    border-top-color: rgb(135, 196, 141);
 
     border-left-style: solid;
     border-left-width: 30px;
-    border-left-color: rgb(53, 32, 38);
+    border-left-color: rgb(135, 196, 141);
     
     border-right-style: solid;
     border-right-width: 30px;
-    border-right-color: rgb(53, 32, 38);
+    border-right-color: rgb(135, 196, 141);
 }
 .spotify {
-    size-adjust: 60%;
+   size-adjust: 60%;
     float: left;
     width: 40%;
-     background-color: rgb(228, 152, 209);
+    display: flex;
+     background-color: rgb(252, 190, 236);
     border-bottom-style: solid;
     border-bottom-width: 30px;
-    border-bottom-color: rgb(53, 32, 38);
+    border-bottom-color: rgb(135, 196, 141);
 
     border-top-style: solid;
     border-top-width: 30px;
-    border-top-color: rgb(53, 32, 38);
+    border-top-color: rgb(135, 196, 141);
 
     border-left-style: solid;
     border-left-width: 30px;
-    border-left-color: rgb(53, 32, 38);
+    border-left-color: rgb(135, 196, 141);
     
     border-right-style: solid;
     border-right-width: 30px;
-    border-right-color: rgb(53, 32, 38);
+    border-right-color: rgb(135, 196, 141);
 }
 .youtube {
     size-adjust: 60%;
-    float: left;
+    float: right;
     width: 40%;
-     background-color: rgb(228, 152, 209);
+    display: flex;
+     background-color: rgb(252, 190, 236);
     border-bottom-style: solid;
     border-bottom-width: 30px;
-    border-bottom-color: rgb(53, 32, 38);
+    border-bottom-color: rgb(135, 196, 141);
 
     border-top-style: solid;
     border-top-width: 30px;
-    border-top-color: rgb(53, 32, 38);
+    border-top-color: rgb(135, 196, 141);
 
     border-left-style: solid;
     border-left-width: 30px;
-    border-left-color: rgb(53, 32, 38);
+    border-left-color: rgb(135, 196, 141);
     
     border-right-style: solid;
     border-right-width: 30px;
-    border-right-color: rgb(53, 32, 38);
+    border-right-color: rgb(135, 196, 141);
 }
