@@ -54,7 +54,7 @@
     color: rgb(253, 230, 184);
     text-align: center;
     font-size: 30px;
-    padding: 30px;
+    padding: 40px;
     scroll-margin-top: 10px;
 }
 #beatopia {
@@ -62,8 +62,24 @@
     color: rgb(252, 166, 206);
     text-align: center;
     font-size: 30px;
-    padding: 30px;
+    padding: 40px;
     scroll-margin-top: 10px;
+}
+#contacto {
+    background-color: rgb(96, 193, 204);
+    color: rgb(223, 250, 233);
+    text-align: center;
+    font-size: 30px;
+    padding: 40px;
+    scroll-margin-top: 10px;
+}
+#cierre {
+   background-color: rgb(197, 129, 234);
+    color: rgb(202, 255, 236);
+    text-align: center;
+    font-size: 30px;
+    padding: 40px;
+    scroll-margin-top: 10px; 
 }
 .ig {
     size-adjust: 60%;
