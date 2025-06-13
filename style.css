@@ -37,15 +37,20 @@
 .burger {
     background-color: rgb(244, 177, 192);
     display: inline-block;
-    display: block;
-    display: inline;
     padding: 50px;
-    
+    position: sticky;
+    top: 0;
 
     
 }
 .foto1 {
-    size-adjust: 50%;
+    float: right;
+    size-adjust: 1024px;
+}
+#biografia {
+    background-color: rgb(167, 240, 162);
+    color: azure;
+    text-align: center;
 }
 .ig {
     size-adjust: 60%;
