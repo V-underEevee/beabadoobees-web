@@ -33,7 +33,7 @@
     display: inline-block;
     vertical-align: top;
     position: fixed;
-    left: 100%;
+    right: auto;
     padding: 300px;
     size: 300px;
 }
