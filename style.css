@@ -81,9 +81,13 @@
     padding: 40px;
     scroll-margin-top: 10px; 
 }
+.cajita {
+    display: flex;
+
+}
 .ig {
     size-adjust: 60%;
-    float: left;
+   
     width: 40%;
     display: flex;
       background-color: rgb(252, 190, 236);
@@ -105,7 +109,7 @@
 }
 .X {
    size-adjust: 60%;
-    float: right;
+    
     width: 40%;
     display: flex;
       background-color: rgb(252, 190, 236);
@@ -127,7 +131,7 @@
 }
 .spotify {
    size-adjust: 60%;
-    float: left;
+    
     width: 40%;
     display: flex;
      background-color: rgb(252, 190, 236);
@@ -149,7 +153,7 @@
 }
 .youtube {
     size-adjust: 60%;
-    float: right;
+    
     width: 40%;
     display: flex;
      background-color: rgb(252, 190, 236);
@@ -171,7 +175,7 @@
 }
 .sororo {
     size-adjust: 60%;
-    float: left;
+    
     width: 40%;
     display: flex;
 }
