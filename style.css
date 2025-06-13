@@ -28,6 +28,12 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+.a {
+    display: inline-block;
+}
+.foto1 {
+    size-adjust: 50%;
+}
 .ig {
     size-adjust: 60%;
     float: left;
