@@ -28,7 +28,8 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
-.a {
+.barrita {
+    background-color: rgb(246, 197, 213);
     display: inline-block;
     size: 300px;
 }
