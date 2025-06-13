@@ -31,7 +31,6 @@
 .barrita {
     background-color: rgb(240, 124, 151);
     display: inline;
-    align-content: top;
     position: fixed;
     right: 5%;
     padding: 30px;
