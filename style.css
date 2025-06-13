@@ -83,7 +83,8 @@
 }
 .cajita {
     display: flex;
-
+    flex-wrap: wrap;
+    
 }
 .ig {
     size-adjust: 60%;
