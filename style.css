@@ -31,6 +31,8 @@
 .barrita {
     background-color: rgb(246, 197, 213);
     display: inline-block;
+    vertical-align: top;
+    padding: 300px;
     size: 300px;
 }
 .foto1 {
