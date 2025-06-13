@@ -16,3 +16,9 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+.body4 {
+    background-image: url(./body4.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
