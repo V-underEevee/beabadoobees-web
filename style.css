@@ -37,10 +37,11 @@
 }
 .burger {
     background-color: rgb(244, 177, 192);
-    display: inline;
+    display: inline-block;
     padding: 30px;
     right: 5%;
-    
+    position: fixed;
+    size: 300px;
     
 }
 .foto1 {
