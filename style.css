@@ -28,8 +28,11 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
-.barrita {
-    background-color: rgb(240, 124, 151);
+.bar {
+    background-color: rgb(234, 134, 157);
+}
+.burger {
+    background-color: rgb(244, 177, 192);
     display: inline;
     position: fixed;
     right: 5%;
