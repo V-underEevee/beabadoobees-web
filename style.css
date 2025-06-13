@@ -32,14 +32,15 @@
     background-color: rgb(234, 134, 157);
     padding: 50px;
     
+    
 }
-.a {
+.burger {
     background-color: rgb(244, 177, 192);
     display: inline-block;
+    display: block;
+    display: inline;
     padding: 50px;
-    right: 5%;
-    position: fixed;
-    size: 300px;
+    
 
     
 }
