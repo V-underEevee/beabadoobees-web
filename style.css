@@ -35,9 +35,9 @@
     
     position: fixed;
 }
-.burger {
+.a {
     background-color: rgb(244, 177, 192);
-    display:inline-flexbox ;
+    display: inline;
     padding: 30px;
     right: 5%;
     position: sticky;
