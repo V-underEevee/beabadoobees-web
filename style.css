@@ -37,17 +37,18 @@
 }
 .burger {
     background-color: rgb(244, 177, 192);
-    display: inline-block;
+    display: block;
     padding: 50px;
-    position: sticky;
-    top: 0;
+    position: fixed;
     font-size: 30px;
     
 }
 
 .foto1 {
-    float: left;
-    size-adjust: 30%;
+
+    margin: 0 auto;
+    width: fit-content;
+    height: auto;
 }
 #biografia {
     background-color: rgb(182, 125, 45);
@@ -84,7 +85,7 @@
 .cajita {
     display: flex;
     flex-wrap: wrap;
-    
+
 }
 .ig {
     size-adjust: 60%;
