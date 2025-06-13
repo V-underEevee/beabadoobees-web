@@ -32,6 +32,8 @@
     background-color: rgb(246, 197, 213);
     display: inline-block;
     vertical-align: top;
+    position: fixed;
+    left: 100%;
     padding: 300px;
     size: 300px;
 }
