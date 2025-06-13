@@ -30,7 +30,7 @@
 }
 .barrita {
     background-color: rgb(246, 197, 213);
-    display: inline-block;
+    display: inline;
     vertical-align: top;
     position: fixed;
     right: auto;
