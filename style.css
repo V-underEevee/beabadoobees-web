@@ -31,6 +31,7 @@
 .bar {
     background-color: rgb(234, 134, 157);
     padding: 50px;
+
     
     
 }
@@ -38,10 +39,13 @@
     background-color: rgb(244, 177, 192);
     display: inline-block;
     padding: 50px;
-    position: sticky;
-    top: 0;
+    
     font-size: 30px;
     
+}
+.MOVETE {
+    position: sticky;
+    top: 0;
 }
 .foto1 {
     float: right;
