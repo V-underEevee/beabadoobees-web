@@ -30,6 +30,7 @@
 }
 .a {
     display: inline-block;
+    size: 300px;
 }
 .foto1 {
     size-adjust: 50%;
