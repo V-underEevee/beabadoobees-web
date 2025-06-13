@@ -30,15 +30,13 @@
 }
 .bar {
     background-color: rgb(234, 134, 157);
-    padding-bottom: 50px;
-    padding-top: 50px;
-    position: sticky;
-    top: 0;
+    padding: 50px;
+    
 }
 .a {
     background-color: rgb(244, 177, 192);
-    display: inline;
-    padding: 30px;
+    display: inline-block;
+    padding: 50px;
     right: 5%;
     position: fixed;
     size: 300px;
