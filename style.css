@@ -40,7 +40,7 @@
     padding: 50px;
     position: sticky;
     top: 0;
-
+    font-size: 30px;
     
 }
 .foto1 {
@@ -48,9 +48,12 @@
     size-adjust: 1024px;
 }
 #biografia {
-    background-color: rgb(167, 240, 162);
-    color: azure;
+    background-color: rgb(121, 173, 111);
+    color: rgb(212, 229, 229);
     text-align: center;
+    font-size: 30px;
+    padding: 30px;
+    scroll-margin-top: 100px;
 }
 .ig {
     size-adjust: 60%;
